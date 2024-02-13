@@ -1,4 +1,4 @@
-# FFokir
+# Fokir
 
 ## Built with
 - HTML5
